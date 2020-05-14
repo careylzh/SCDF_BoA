@@ -7,5 +7,5 @@ Use of data-analytics to better train and prepare fire personnel in air manageme
 
 Demo             |  Details
 :-------------------------:|:-------------------------:
-<img src="https://github.com/careylzh/SCDF_BoA/blob/master/SCDF_BoA.JPG" alt="BoA SCDF Innovation Challenge" width="100" />
-<img alt="BoA SCDF Innovation Challenge 2018" src="https://github.com/careylzh/SCDF_BoA/blob/master/BoA%20Blynk%20Dashboard.png" width="100"/>| <div align="left"><br/> <br/>  __Team__: <br/> Adam Idris Lim Wei (Team Leader) <br/> Bai Jialong (Hardware Leader) <br/> Lai Zheng Hui Carey (Software Lead) <br/><br/><br/> __Software__:Blynk Prototyping Software, Arduino IDE <br/><br/><br/> __Hardware__: NodeMCU, esp8266 arduino variant, industrial flow sensor, portable charger <br/> __"Programming" Language Used__: C <br/> <br/> </div>
+<img src="https://github.com/careylzh/SCDF_BoA/blob/master/SCDF_BoA.JPG" alt="BoA SCDF Innovation Challenge" width="1000" />
+<img alt="BoA SCDF Innovation Challenge 2018" src="https://github.com/careylzh/SCDF_BoA/blob/master/BoA%20Blynk%20Dashboard.png" width="1000"/>| <div align="left"><br/> <br/>  __Team__: <br/> Adam Idris Lim Wei (Team Leader) <br/> Bai Jialong (Hardware Leader) <br/> Lai Zheng Hui Carey (Software Lead) <br/><br/><br/> __Software__:Blynk Prototyping Software, Arduino IDE <br/><br/><br/> __Hardware__: NodeMCU, esp8266 arduino variant, industrial flow sensor, portable charger <br/> __"Programming" Language Used__: C <br/> <br/> </div>
