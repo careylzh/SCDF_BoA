@@ -4,4 +4,4 @@
 
 Demo             |  Description
 :-------------------------:|:-------------------------:
-![](https://github.com/careylzh/SCDF_BoA/blob/master/SCDF_BoA.JPG) | <div align="left">Field Testing at Yishun Fire Station, 2018t<br/> <br/> __Software__:Blynk Prototyping Software <br/> __Hardware__: NodeMCU, esp8266 arduino variant, industrial flow sensor, portable charger <br/> __"Programming" Language Used__: C <br/> <br/>
+![](https://github.com/careylzh/SCDF_BoA/blob/master/SCDF_BoA.JPG) | <div align="left">Field Testing at Yishun Fire Station, 2018<br/> <br/> __Software__:Blynk Prototyping Software, Arduino IDE <br/> __Hardware__: NodeMCU, esp8266 arduino variant, industrial flow sensor, portable charger <br/> __"Programming" Language Used__: C <br/> <br/>
